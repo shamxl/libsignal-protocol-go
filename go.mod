@@ -1,4 +1,4 @@
-module github.com/crossle/libsignal-protocol-go
+module github.com/shamxl/libsignal-protocol-go
 
 go 1.17
 
